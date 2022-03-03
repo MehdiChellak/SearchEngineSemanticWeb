@@ -1,9 +1,12 @@
-# semantic search engine
-#### about 
+# Semantic search engine
+#### About 
 project concerne web semantic, the main point is to create search engine can search a sentence with semantic way and fetch from [dbpedia](https://www.dbpedia.org/)  the links that's are revelent to the sentence.
-for example : 
+for example :
+
 `i eat apple`  the search sould return back as result links's apple as fruit not apple company.
+
 `my favourite color is orange` here should return back the result as color not orange fruit.
+
 on the other hand standard google search engine doesn't support search by meaning.
 
 Machine learning : TF-IDF 
