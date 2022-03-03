@@ -15,4 +15,5 @@ web semantic : rdf - rfds - torturle
 Deep leanring : Bert pre-trained model
 GUI : PyQt5
 
-![image](https://user-images.githubusercontent.com/63523451/156576153-294f5053-6825-459e-adf5-43d543f3b1ea.png)
+![image](https://user-images.githubusercontent.com/63523451/156576743-7edb746b-a0e3-46b0-8731-598b2a052542.png)
+
